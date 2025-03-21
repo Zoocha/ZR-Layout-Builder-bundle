@@ -1,0 +1,12 @@
+name: 'Zoocha Layout Builder Bundle'
+description: 'Installs Layout build and related modules.'
+type: 'Feature'
+
+install:
+  - layout_builder
+  - layout_builder_modal
+  - layout_builder_browser
+  - layout_builder_restrictions
+
+config:
+  strict: false
